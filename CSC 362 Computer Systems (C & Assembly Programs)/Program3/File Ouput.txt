@@ -1,0 +1,41 @@
+File Output:
+
+ 1*Hk 2H l B He Flq p H  hByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *Hk 21 * B He Flq p H  hByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *Hk n2 *1B He Flq p H  hByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *Hk n_ 2 B He1Flq p H  hByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *2k n_ * B He Flq p1H  hByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+ 2*_* n_ * B He Flq1p H  *ByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  2_* n_ * B He Flq p H 1*ByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_* 2_ * B He Flq p 1  *ByHlho H B  jr HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_* n_ * B2He Flq p _  *B*Hlho H B  1r HFB ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_*2n_ * B H* Flq p _  *B*Hlho H B  j* HF1 ir j H  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+2 *_* n_ * B H* Flq p _  *B*Hlho H B  j* HFB i* j 1  F ku gd  H pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_2 n_ * B H* Flq p _  *B*Hlho H B  j* HFB i* j H  F ku gd  1 pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_* 2_ * B H* Flq p _  *B*Hlho H B  j* HFB i* j 1  F ku gd  _ pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_* n_ * B2H* Flq p _  *B*Hlho H B  j* HFB i* j _  F1ku gd  _ pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*2lho H B  j* HFB i* j1_  F ku g*  _ pjB mH x  BF i H  m oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho2H B  j* HFB i* j _  F ku g*  _ pjB m1 x  BF i H  m oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H2B  ** HFB i* j _  F ku g*  _ pjB m_ x1 BF i H  m oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B 2** HFB i* j _  F ku g*  _ pjB m_ x1 BF * H  m oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B  *2 HFB i* j _  F ku g*  _ pjB m_ x  BF1* H  m oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B  ** HFB2i* j _  F ku g*  _ pjB m_ x  BF * H1 m oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B  ** HFB i* j2_  F ku g*  _ pjB m_ x  BF * H 1* oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B  ** HFB i* j _ 2F ku g*  _ pjB m_ x  BF * H  1 oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B  ** HFB i* j _ 2F *u g*  _ pjB m_ x  BF * 1  * oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B  ** HFB i* j _  F *u2g*  _ pjB m_ x  BF * _  1 oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho H B  ** 1FB i* j _  F *u g* 2_ pjB m_ x  BF * _  * oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho 1 B  ** _FB i* j _  F *u g* 2_ p*B m_ x  BF * _  * oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho _1B  ** _FB i* j _  F *u g*  _ p*B2m_ x  BF * _  * oB HlHFBhoH BB 
+  *_* n_ * B H* Flq p _  *B*_lho _ B 1** _FB i* j _  F *u g*  _ p*B m2 x  BF * _  * oB HlHFBhoH BB 
+  *_* n_ * B 1* Flq p _  *B*_lho _ B  ** _FB i* j _  F *u g*  _ p*B m_ *  BF * _ 2* oB HlHFBhoH BB 
+  *_* n_ * B _*1Flq p _  *B*_lho _ B  ** _FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *2 HlHFBhoH BB 
+  *_* n_ * B _* Flq1p _  *B*_lho _ B  ** _FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *B2H*HFBhoH BB 
+  *_* n_ * B _* Flq * 1  *B*_lho _ B  ** _FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *B H2HFBhoH BB 
+  *_* n_ * B _* Flq * _  1B*_lho _ B  ** _FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *B2H*HFB*oH BB 
+  *_* n_ * B _* Flq * _  *B*_lh*1_ B  ** _FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *B H*2FB*oH BB 
+  *_* n_ * B _* Flq * _  *B*_lh* _ B  1* _FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *B H*2FB*oH BB 
+  *_* n_ * B _* Flq * _  *B*_lh* _ B  **1_FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *B H*_FB*oH2BB 
+  *_* n_ * B _* Flq * _  *B*_lh* _ B  ** _FB1i* j _  F *u g*  _ p*B m_ *  BF * _  * *B H*_FB*o2 BB 
+  *_* n_ * B _* Flq * _  *B*_lh* _ B  ** _FB i*1j _  F *u g*  _ p*B m_ *  BF * _  * *B H*_FB*o_ BB2
+  *_* n_ * B _* Flq * _  *B*_lh* _ B  ** _FB i* j _  F *u g*  _ p*B m_ *  BF * _  * *B 1*_FB*o_ BB 

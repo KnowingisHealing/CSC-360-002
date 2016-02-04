@@ -1,0 +1,12 @@
+Ohio_State 9 8 8 6 9 Hawaii 5 6 5 4
+Penn_State 4 10 5 7 10 Buffalo 6 8 6 7
+Iowa_State 6 5 5 5 5 Iowa 4 7 6 5
+Tennessee 6 9 6 5 8 Oklahoma 8 6 5 7 
+Florida 3 10 8 5 7 East_Carolina 8 5 7 4
+South_Carolina 5 9 4 7 7 Kentucky 4 8 8 6
+Michigan 3 10 4 7 8 Oregon_State 7 6 8 6
+Cincinnati 9 6 4 5 4 Temple 7 7 9 6
+Michigan_State 4 10 5 8 6 Oregon 10 6 7 5
+Mississippi_State 6 9 6 4 6 LSU 4 10 7 7
+Stanford 6 7 7 8 7 Central_Florida 8 6 6 6
+BYU 6 4 6 5 6 Boise_State 8 5 3 4

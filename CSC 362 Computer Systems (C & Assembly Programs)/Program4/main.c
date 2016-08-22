@@ -49,7 +49,7 @@ void main( ) {
         sum += 2;
     }
     
-    /*asm ( // enter assembly code, from here on, code is assembled, not compiled
+    asm ( // enter assembly code, from here on, code is assembled, not compiled
      // assembly code here to iterate for sum = 6 to 100
      " "
      // get the first x (3) and generate the first y (sum – x)
@@ -71,6 +71,6 @@ void main( ) {
      " "
      // found, exit assembly, output no solution found and exit program
      " "
-     );*/
+     );
     
 }

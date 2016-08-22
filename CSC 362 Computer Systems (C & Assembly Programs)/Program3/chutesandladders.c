@@ -8,7 +8,7 @@
 
 #include "chutesandladders.h"
 
-/*void output(char *board, char *p1, char *p2, FILE *fp){
+void output(char *board, char *p1, char *p2, FILE *fp){
     
     char* current; // used for iterating through board
     

@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe.config
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\bin\Debug\PigLatinTranslator.pdb
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.Form1.resources
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.Properties.Resources.resources
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.exe
+\\Mac\Home\Documents\School&NKU\Spring 2016\CSC 494-001 C# ASP .NET Programming\Assignments\PigLatinTranslator\PigLatinTranslator\obj\Debug\PigLatinTranslator.pdb

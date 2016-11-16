@@ -1,0 +1,3 @@
+In every instance, the template sort was faster than the OO sort. Usually, the average increase in speed for Integer vectors was around 280%, while the average increase in speed for String vectors was around 130%.
+
+CONCLUSION: Using templates seems to be a faster way of implementing functions for comparing objects.

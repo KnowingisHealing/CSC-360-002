@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="CSC416Assignment4" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qZ0-d8-x4Q">
+                                <rect key="frame" x="20" y="20" width="276" height="30"/>
+                                <state key="normal" title="Set Total Elements"/>
+                                <connections>
+                                    <action selector="setElementsPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Lev-nQ-Kl3"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7od-Xn-bbZ">
+                                <rect key="frame" x="20" y="58" width="276" height="30"/>
+                                <state key="normal" title="Sort By City Name"/>
+                                <connections>
+                                    <action selector="sortNamePressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tVo-P1-JHh"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hPR-Vz-ACa">
+                                <rect key="frame" x="304" y="58" width="276" height="30"/>
+                                <state key="normal" title="Sort By Location"/>
+                                <connections>
+                                    <action selector="sortLocationPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ezS-At-qgI"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="lXL-iF-mlI">
+                                <rect key="frame" x="304" y="20" width="276" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <connections>
+                                    <action selector="setElementsPressed:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="A1C-3k-C44"/>
+                                    <action selector="setElementsPressed:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="UzW-Gt-by0"/>
+                                    <action selector="setElementsPressed:" destination="BYZ-38-t0r" eventType="valueChanged" id="rlM-Sr-0lj"/>
+                                </connections>
+                            </textField>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="3Ep-jc-KeT">
+                                <rect key="frame" x="20" y="110" width="560" height="470"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="240" id="fQc-77-Frc"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="7od-Xn-bbZ" firstAttribute="width" secondItem="hPR-Vz-ACa" secondAttribute="width" id="3wB-Lx-Qx4"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="3Ep-jc-KeT" secondAttribute="trailing" constant="320" id="7tZ-jh-fcV"/>
+                            <constraint firstItem="lXL-iF-mlI" firstAttribute="width" secondItem="qZ0-d8-x4Q" secondAttribute="width" id="CEm-Tv-2cY"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="lXL-iF-mlI" secondAttribute="trailing" id="D1E-hQ-sBw"/>
+                            <constraint firstItem="3Ep-jc-KeT" firstAttribute="top" secondItem="7od-Xn-bbZ" secondAttribute="bottom" constant="22" id="D3y-hp-S5d"/>
+                            <constraint firstItem="lXL-iF-mlI" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="HfP-ty-i8Q"/>
+                            <constraint firstItem="lXL-iF-mlI" firstAttribute="leading" secondItem="hPR-Vz-ACa" secondAttribute="leading" id="QUp-H5-r8o"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="3Ep-jc-KeT" secondAttribute="trailing" id="YQb-03-mQJ"/>
+                            <constraint firstAttribute="leadingMargin" secondItem="qZ0-d8-x4Q" secondAttribute="leading" id="dT0-7n-Lxo"/>
+                            <constraint firstItem="qZ0-d8-x4Q" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="fUf-bG-njj"/>
+                            <constraint firstItem="7od-Xn-bbZ" firstAttribute="leading" secondItem="3Ep-jc-KeT" secondAttribute="leading" id="iHn-bE-Tp6"/>
+                            <constraint firstAttribute="bottom" secondItem="3Ep-jc-KeT" secondAttribute="bottom" constant="20" symbolic="YES" id="lxC-30-jCo"/>
+                            <constraint firstAttribute="leadingMargin" secondItem="3Ep-jc-KeT" secondAttribute="leading" id="sGc-oq-XEF"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="hPR-Vz-ACa" secondAttribute="trailing" id="v6o-Y0-Brv"/>
+                            <constraint firstItem="7od-Xn-bbZ" firstAttribute="top" secondItem="qZ0-d8-x4Q" secondAttribute="bottom" constant="8" symbolic="YES" id="vUy-1W-fhx"/>
+                            <constraint firstItem="7od-Xn-bbZ" firstAttribute="baseline" secondItem="hPR-Vz-ACa" secondAttribute="baseline" id="wmU-X7-fPQ"/>
+                            <constraint firstAttribute="leadingMargin" secondItem="7od-Xn-bbZ" secondAttribute="leading" id="wwi-bm-f9H"/>
+                            <constraint firstItem="lXL-iF-mlI" firstAttribute="leading" secondItem="qZ0-d8-x4Q" secondAttribute="trailing" constant="8" symbolic="YES" id="yWi-Qg-dmR"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="7tZ-jh-fcV"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="cityList" destination="3Ep-jc-KeT" id="u3K-Mc-RL1"/>
+                        <outlet property="setButton" destination="qZ0-d8-x4Q" id="a8h-cf-DSa"/>
+                        <outlet property="setInput" destination="lXL-iF-mlI" id="0Vb-Fk-iSY"/>
+                        <outlet property="sortLocation" destination="hPR-Vz-ACa" id="Yeb-jf-McM"/>
+                        <outlet property="sortName" destination="7od-Xn-bbZ" id="6o0-yC-TuD"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="245" y="337"/>
+        </scene>
+    </scenes>
+</document>

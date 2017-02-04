@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>328</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QDialogButtonBox" name="buttonBox">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>290</y>
+     <width>341</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+   <property name="standardButtons">
+    <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+   </property>
+  </widget>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>20</y>
+     <width>82</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="firstLabel">
+      <property name="text">
+       <string>First Name</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="midLabel">
+      <property name="text">
+       <string>Middle Name</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="lastLabel">
+      <property name="text">
+       <string>Last Name</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="suffLabel">
+      <property name="text">
+       <string>Suffix</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="ailLabel">
+      <property name="text">
+       <string>Ailment</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="docLabel">
+      <property name="text">
+       <string>Doctor</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="treatLabel">
+      <property name="text">
+       <string>Treated</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="priLabel">
+      <property name="text">
+       <string>Priority</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>20</y>
+     <width>127</width>
+     <height>239</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QLineEdit" name="firstText"/>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="middleText"/>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lastText"/>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="suffixText"/>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="ailmentText"/>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="doctorText"/>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QRadioButton" name="noRadioButton">
+        <property name="text">
+         <string>Yes</string>
+        </property>
+        <attribute name="buttonGroup">
+         <string notr="true">buttonGroup</string>
+        </attribute>
+       </widget>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="radioButton_2">
+        <property name="text">
+         <string>No</string>
+        </property>
+        <attribute name="buttonGroup">
+         <string notr="true">buttonGroup</string>
+        </attribute>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="priorityText"/>
+    </item>
+   </layout>
+  </widget>
+  <zorder>buttonBox</zorder>
+  <zorder>firstLabel</zorder>
+  <zorder>midLabel</zorder>
+  <zorder>suffLabel</zorder>
+  <zorder>lastLabel</zorder>
+  <zorder>ailLabel</zorder>
+  <zorder>treatLabel</zorder>
+  <zorder>docLabel</zorder>
+  <zorder>priLabel</zorder>
+  <zorder>noRadioButton</zorder>
+  <zorder>radioButton_2</zorder>
+  <zorder>doctorText</zorder>
+  <zorder>ailmentText</zorder>
+  <zorder>suffixText</zorder>
+  <zorder>lastText</zorder>
+  <zorder>priorityText</zorder>
+  <zorder>middleText</zorder>
+  <zorder>firstText</zorder>
+  <zorder>ailLabel</zorder>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>Dialog</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>248</x>
+     <y>254</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>Dialog</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>316</x>
+     <y>260</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <buttongroups>
+  <buttongroup name="buttonGroup"/>
+ </buttongroups>
+</ui>

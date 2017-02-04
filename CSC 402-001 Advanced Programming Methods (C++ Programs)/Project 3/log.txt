@@ -1,0 +1,48 @@
+Sun Nov 20 23:27:19 2016
+ Added patients from file
+
+Sun Nov 20 23:27:31 2016
+ Patient treated
+
+Sun Nov 20 23:31:48 2016
+ Printed patients by doctor. 
+
+Sun Nov 20 23:34:29 2016
+ Printed all patients. 
+
+Wed Dec 14 16:06:04 2016
+ Added patients from file
+
+Wed Dec 14 16:06:16 2016
+ Printed all patients. 
+
+Sun Dec 18 15:15:39 2016
+ Added patients from file
+
+Sun Dec 18 15:15:53 2016
+ All patients treated. 
+
+Sun Dec 18 15:15:58 2016
+ Printed next patient to be treated
+
+Sun Dec 18 15:18:41 2016
+ Added patients from file
+
+Sun Dec 18 15:18:48 2016
+ All patients treated. 
+
+Sun Dec 18 15:18:50 2016
+ Printed next patient to be treated
+
+Sun Dec 18 15:18:55 2016
+ All patients treated. 
+
+Sun Dec 18 15:18:56 2016
+ Printed next patient to be treated
+
+Sun Dec 18 15:19:09 2016
+ Printed a list of treated patients.
+
+Sun Dec 18 15:19:16 2016
+ Printed all patients. 
+
